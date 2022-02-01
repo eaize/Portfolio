@@ -90,7 +90,7 @@ a.font-black {
     text-align: center;
   }
   
-  #projects .card img{
+  #projects .card_img_top{
     width: 100%;
 
   }
@@ -99,4 +99,6 @@ a.font-black {
     font-weight: bold;
   }
 
-  
+  #projects .project-card {
+    margin-top: 60px auto;
+  }
