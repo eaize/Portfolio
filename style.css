@@ -6,11 +6,10 @@ Common
 
 body{
     font-family: "monospace", sans-serif;
-    background-color: #A8A8A8;
 }
 
 .font-primary{
-    color: #00abae
+    color: #700606
 }
 
 .title-icon{
@@ -29,7 +28,7 @@ h2 {
 }
 
 a.font-black {
-  color: #000 !important;
+  color: rgb(0, 0, 0) !important;
 }
 
 /*********************
@@ -60,7 +59,7 @@ a.font-black {
   
   #about .skills {
     font-size: 14px;
-    color: #00ABAE;
+    color: #0c00ae;
     margin-bottom: 10px;
   }
   
