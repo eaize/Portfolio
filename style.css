@@ -4,17 +4,17 @@ Common
 
 *****************/
 
-body{
-    font-family: "monospace", sans-serif;
+body {
+  font-family: "monospace", sans-serif;
 }
 
-.font-primary{
-    color: #700606
+.font-primary {
+  color: #700606;
 }
 
-.title-icon{
-    font-size: 20px;
-    font-weight: bold;
+.title-icon {
+  font-size: 20px;
+  font-weight: bold;
 }
 
 p {
@@ -41,69 +41,74 @@ a.font-black {
 *********************/
 
 #about {
-    margin: 60px auto;
-    max-width: 400px;
-    text-align: center;
-  }
-  
-  #about img {
-    border-radius: 50%;
-    width: 120px;
-    margin-bottom: 10px;
-  }
-  
-  #about .name {
-    font-size: 19px;
-  }
-  
-  #about .vocation {
-    font-size: 17px;
-    color: #4d0000;
-    margin-bottom: 10px;
-  }
-  
-  #about .skills {
-    font-size: 14px;
-    color: #0428a0e3;
-    margin-bottom: 10px;
-  }
-  
-  #about .email {
-    margin-top: 14px;
-    font-size: 14px;
-  }
-  
-  #about .icons {
-    margin-top: 20px;
-    font-size: 30px;
-  }
-  
-  #about .icons a {
-    color: #000;
-  }
-  
-  /*********************
+  margin: 60px auto;
+  max-width: 400px;
+  text-align: center;
+}
+
+#about img {
+  border-radius: 50%;
+  width: 120px;
+  margin-bottom: 10px;
+}
+
+#about .name {
+  font-size: 19px;
+}
+
+#about .vocation {
+  font-size: 17px;
+  color: #4d0000;
+  margin-bottom: 10px;
+}
+
+#about .skills {
+  font-size: 14px;
+  color: #0428a0e3;
+  margin-bottom: 10px;
+}
+
+#about .email {
+  margin-top: 14px;
+  font-size: 14px;
+}
+
+#about .icons {
+  margin-top: 20px;
+  font-size: 30px;
+}
+
+#about .icons a {
+  color: #000;
+}
+
+/*********************
  * PROJECTS 
 *********************/
 
 #projects {
-    margin: 60px auto;
-    width: 80%;
-  }
-  
-  #projects h2 {
-    text-align: center;
-  }
-  
-  #projects .card_img_top{
-    width: 100%;
+  margin: 60px auto;
+  width: 80%;
+}
 
-  }
+#projects h2 {
+  text-align: center;
+}
 
-  #projects .card-title {
-    font-weight: bold;
-  }
+#projects .card_img_top {
+  width: 100%;
+}
 
-  #projects .project-card {
-    margin-top: 60px auto;
-  }
+#projects .project-video {
+  width: 100%;
+  height: 300px;
+  background-color: #000;
+}
+
+#projects .card-title {
+  font-weight: bold;
+}
+
+#projects .project-card {
+  margin-top: 60px auto;
+}
